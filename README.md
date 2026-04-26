@@ -8,7 +8,7 @@ Este é meu portfólio profissional, onde apresento meus projetos de desenvolvim
 
 ## 🚀 Acesse o portfólio
 
-🔗 https://ivanrinaldi11.github.io/portfolio/
+🔗  https://ivanrinaldi11.github.io/portfolio/
 
 ---
 
